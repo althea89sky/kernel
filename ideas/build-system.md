@@ -11,3 +11,6 @@ I have an idea for a way to handle building the kernel for different systems. He
 7. After the script determines what needs to be built, the script downloads rustup, configures it for the host system, and installs whatever is needed to build for the specified target.
 8. The script tests the installation of Rust. If all is well, the script compiles the kernel, using the information provided at the start of the script.
 9. The result should be either a bootable kernel, or a partition/drive with a bootable kernel installed onto it.
+
+#######################
+Hi ! I am interested to continue building on your system, i wanna ask if its possible to have a conversation with you, you can reach me out in telegram veronicaandrino 
